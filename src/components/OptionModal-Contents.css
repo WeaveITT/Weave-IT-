@@ -1,0 +1,8 @@
+.OptionModalRow {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.OptionalMargin {
+  margin-right: 10px;
+}
